@@ -1,6 +1,6 @@
 ## Hello World👋
 
-- 🔭 Tenho 16 anos e atualmente faço estudo técnico de DS em duas instituições, sendo uma presencial e outra EAD.
+- 🔭 Tenho 17 anos e atualmente faço estudo técnico de DS em duas instituições, sendo uma presencial e outra EAD.
 - 🌱 Utilizando Tecnologia para melhorar a vida das pessoas.
 - 👯 Estou aberta a oportunidades de emprego e networking! :)
 
